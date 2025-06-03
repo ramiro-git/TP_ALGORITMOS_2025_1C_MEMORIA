@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="main" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/main" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/main" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-lcurl" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="curl/include" />
+			<Add directory="SDL2/include" />
+		</Compiler>
+		<Linker>
+			<Add library="curl" />
+			<Add library="mingw32" />
+			<Add library="SDL2main" />
+			<Add library="SDL2" />
+			<Add library="SDL2_image" />
+			<Add library="SDL2_ttf" />
+			<Add directory="curl/lib" />
+			<Add directory="SDL2/lib" />
+		</Linker>
+		<Unit filename="api.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="api.h" />
+		<Unit filename="cartas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cartas.h" />
+		<Unit filename="cicloMenu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cicloMenu.h" />
+		<Unit filename="globales.h" />
+		<Unit filename="graficos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="graficos.h" />
+		<Unit filename="json.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="json.h" />
+		<Unit filename="jugar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="jugar.h" />
+		<Unit filename="lista.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lista.h" />
+		<Unit filename="mCtype.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mCtype.h" />
+		<Unit filename="mString.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mString.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="manejoArchivos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="manejoArchivos.h" />
+		<Unit filename="manejoCadenas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="manejoCadenas.h" />
+		<Unit filename="mano.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mano.h" />
+		<Unit filename="menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu.h" />
+		<Unit filename="parsear.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="parsear.h" />
+		<Unit filename="pila.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pila.h" />
+		<Unit filename="ranking.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ranking.h" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

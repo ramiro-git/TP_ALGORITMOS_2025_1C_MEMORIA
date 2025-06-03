@@ -1,0 +1,2755 @@
+# depslib dependency file v1.0
+1748925524 source:c:\users\ramiro\desktop\tp_prueba\main.c
+	"cicloMenu.h"
+
+1748925544 source:c:\users\ramiro\desktop\tp_prueba\menu.c
+	"menu.h"
+
+1748844730 c:\users\ramiro\desktop\tp_prueba\menu.h
+	"manejoCadenas.h"
+	"mString.h"
+
+1748035038 c:\users\ramiro\desktop\tp_prueba\mstring.h
+	<stdio.h>
+	"mCtype.h"
+
+1748925548 source:c:\users\ramiro\desktop\tp_prueba\mstring.c
+	"mString.h"
+
+1748925541 source:c:\users\ramiro\desktop\tp_prueba\mctype.c
+	"mCtype.h"
+
+1748035038 c:\users\ramiro\desktop\tp_prueba\mctype.h
+
+1748925490 source:c:\users\ramiro\desktop\tp_prueba\ciclomenu.c
+	"cicloMenu.h"
+
+1748921708 c:\users\ramiro\desktop\tp_prueba\ciclomenu.h
+	"globales.h"
+	"menu.h"
+	"manejoArchivos.h"
+	"manejoCadenas.h"
+	"api.h"
+	"jugar.h"
+	"ranking.h"
+	<unistd.h>
+
+1748846583 c:\users\ramiro\desktop\tp_prueba\manejoarchivos.h
+	"parsear.h"
+	"api.h"
+	<stdio.h>
+	<stdarg.h>
+	<time.h>
+
+1748035038 source:c:\users\ramiro\desktop\tp_prueba\manejoarchivos.c
+	"manejoArchivos.h"
+
+1748035038 c:\users\ramiro\desktop\tp_prueba\parsear.h
+	"mString.h"
+
+1748035038 source:c:\users\ramiro\desktop\tp_prueba\parsear.c
+	"parsear.h"
+
+1748925480 source:c:\users\ramiro\desktop\tp_prueba\api.c
+	"api.h"
+
+1748845829 c:\users\ramiro\desktop\tp_prueba\api.h
+	"globales.h"
+	"json.h"
+	"mString.h"
+	"curl/curl.h"
+
+1748920958 c:\users\ramiro\desktop\tp_prueba\globales.h
+
+1748925563 source:c:\users\ramiro\desktop\tp_prueba\pila.c
+	"pila.h"
+
+1748847117 c:\users\ramiro\desktop\tp_prueba\pila.h
+	<stddef.h>
+	"mString.h"
+
+1748925517 source:c:\users\ramiro\desktop\tp_prueba\jugar.c
+	"jugar.h"
+
+1748925520 c:\users\ramiro\desktop\tp_prueba\jugar.h
+	"globales.h"
+	"json.h"
+	"api.h"
+	"mString.h"
+	"manejoArchivos.h"
+	"manejoCadenas.h"
+	"mano.h"
+	"menu.h"
+	"graficos.h"
+	<unistd.h>
+
+1748925512 c:\users\ramiro\desktop\tp_prueba\json.h
+	"globales.h"
+	"mString.h"
+	<stdlib.h>
+	<ctype.h>
+
+1748925511 source:c:\users\ramiro\desktop\tp_prueba\json.c
+	"json.h"
+
+1748925535 c:\users\ramiro\desktop\tp_prueba\manejocadenas.h
+	"globales.h"
+	"mCtype.h"
+	"menu.h"
+	"jugar.h"
+	<stdio.h>
+
+1748925531 source:c:\users\ramiro\desktop\tp_prueba\manejocadenas.c
+	"manejoCadenas.h"
+
+1748660067 c:\users\ramiro\desktop\tp_prueba\cartas.h
+	<stdlib.h>
+
+1748925486 source:c:\users\ramiro\desktop\tp_prueba\cartas.c
+	"cartas.h"
+
+1748846737 c:\users\ramiro\desktop\tp_prueba\mano.h
+	"cartas.h"
+	"pila.h"
+
+1748925536 source:c:\users\ramiro\desktop\tp_prueba\mano.c
+	"mano.h"
+
+1746224390 source:c:\users\ramiro\desktop\universidad\tercer año\primer cuatrimestre\algoritmos y estructuras de datos\trabajo práctico\tp_prueba\api.c
+	"api.h"
+
+1746207588 c:\users\ramiro\desktop\universidad\tercer año\primer cuatrimestre\algoritmos y estructuras de datos\trabajo práctico\tp_prueba\api.h
+	"globales.h"
+	"json.h"
+	"mString.h"
+	<curl/curl.h>
+
+1745971097 c:\users\ramiro\desktop\universidad\tercer año\primer cuatrimestre\algoritmos y estructuras de datos\trabajo práctico\tp_prueba\globales.h
+
+1746230650 c:\users\ramiro\desktop\universidad\tercer año\primer cuatrimestre\algoritmos y estructuras de datos\trabajo práctico\tp_prueba\json.h
+	"globales.h"
+	"mString.h"
+	<stdlib.h>
+	<ctype.h>
+
+1745964404 c:\users\ramiro\desktop\universidad\tercer año\primer cuatrimestre\algoritmos y estructuras de datos\trabajo práctico\tp_prueba\mstring.h
+	<stdio.h>
+	"mCtype.h"
+
+1745971097 c:\users\ramiro\desktop\universidad\tercer año\primer cuatrimestre\algoritmos y estructuras de datos\trabajo práctico\tp_prueba\mctype.h
+
+1745970373 source:c:\users\ramiro\desktop\universidad\tercer año\primer cuatrimestre\algoritmos y estructuras de datos\trabajo práctico\tp_prueba\cartas.c
+	"cartas.h"
+
+1746245465 c:\users\ramiro\desktop\universidad\tercer año\primer cuatrimestre\algoritmos y estructuras de datos\trabajo práctico\tp_prueba\cartas.h
+	<stdlib.h>
+
+1746230808 source:c:\users\ramiro\desktop\universidad\tercer año\primer cuatrimestre\algoritmos y estructuras de datos\trabajo práctico\tp_prueba\ciclomenu.c
+	"cicloMenu.h"
+
+1746230885 c:\users\ramiro\desktop\universidad\tercer año\primer cuatrimestre\algoritmos y estructuras de datos\trabajo práctico\tp_prueba\ciclomenu.h
+	"menu.h"
+	"manejoArchivos.h"
+	"manejoCadenas.h"
+	"api.h"
+	"jugar.h"
+	"ranking.h"
+
+1745721843 c:\users\ramiro\desktop\universidad\tercer año\primer cuatrimestre\algoritmos y estructuras de datos\trabajo práctico\tp_prueba\menu.h
+	"mString.h"
+
+1746245245 c:\users\ramiro\desktop\universidad\tercer año\primer cuatrimestre\algoritmos y estructuras de datos\trabajo práctico\tp_prueba\manejoarchivos.h
+	"parsear.h"
+	"api.h"
+	<stdio.h>
+	<stdarg.h>
+	<time.h>
+
+1745971097 c:\users\ramiro\desktop\universidad\tercer año\primer cuatrimestre\algoritmos y estructuras de datos\trabajo práctico\tp_prueba\parsear.h
+	"mString.h"
+
+1745971097 c:\users\ramiro\desktop\universidad\tercer año\primer cuatrimestre\algoritmos y estructuras de datos\trabajo práctico\tp_prueba\manejocadenas.h
+	"globales.h"
+	"mCtype.h"
+	"menu.h"
+	"jugar.h"
+	<stdio.h>
+
+1746242730 c:\users\ramiro\desktop\universidad\tercer año\primer cuatrimestre\algoritmos y estructuras de datos\trabajo práctico\tp_prueba\jugar.h
+	"globales.h"
+	"json.h"
+	"api.h"
+	"mString.h"
+	"manejoArchivos.h"
+	"manejoCadenas.h"
+	"mano.h"
+
+1745970878 c:\users\ramiro\desktop\universidad\tercer año\primer cuatrimestre\algoritmos y estructuras de datos\trabajo práctico\tp_prueba\mano.h
+	"cartas.h"
+	"pila.h"
+
+1745971097 c:\users\ramiro\desktop\universidad\tercer año\primer cuatrimestre\algoritmos y estructuras de datos\trabajo práctico\tp_prueba\pila.h
+	<stddef.h>
+	"mString.h"
+
+1746561282 source:c:\users\ramiro\desktop\universidad\tercer año\primer cuatrimestre\algoritmos y estructuras de datos\trabajo práctico\tp_prueba\jugar.c
+	"jugar.h"
+
+1746561348 source:c:\users\ramiro\desktop\universidad\tercer año\primer cuatrimestre\algoritmos y estructuras de datos\trabajo práctico\tp_prueba\main.c
+	"cicloMenu.h"
+
+1746245226 source:c:\users\ramiro\desktop\universidad\tercer año\primer cuatrimestre\algoritmos y estructuras de datos\trabajo práctico\tp_prueba\manejoarchivos.c
+	"manejoArchivos.h"
+
+1745969851 source:c:\users\ramiro\desktop\universidad\tercer año\primer cuatrimestre\algoritmos y estructuras de datos\trabajo práctico\tp_prueba\manejocadenas.c
+	"manejoCadenas.h"
+
+1745970870 source:c:\users\ramiro\desktop\universidad\tercer año\primer cuatrimestre\algoritmos y estructuras de datos\trabajo práctico\tp_prueba\mano.c
+	"mano.h"
+
+1745722042 source:c:\users\ramiro\desktop\universidad\tercer año\primer cuatrimestre\algoritmos y estructuras de datos\trabajo práctico\tp_prueba\mctype.c
+	"mCtype.h"
+
+1745721833 source:c:\users\ramiro\desktop\universidad\tercer año\primer cuatrimestre\algoritmos y estructuras de datos\trabajo práctico\tp_prueba\menu.c
+	"menu.h"
+
+1745964404 source:c:\users\ramiro\desktop\universidad\tercer año\primer cuatrimestre\algoritmos y estructuras de datos\trabajo práctico\tp_prueba\mstring.c
+	"mString.h"
+
+1745901100 source:c:\users\ramiro\desktop\universidad\tercer año\primer cuatrimestre\algoritmos y estructuras de datos\trabajo práctico\tp_prueba\parsear.c
+	"parsear.h"
+
+1745780964 source:c:\users\ramiro\desktop\universidad\tercer año\primer cuatrimestre\algoritmos y estructuras de datos\trabajo práctico\tp_prueba\pila.c
+	"pila.h"
+
+1746230650 source:c:\users\ramiro\desktop\universidad\tercer año\primer cuatrimestre\algoritmos y estructuras de datos\trabajo práctico\tp_prueba\json.c
+	"json.h"
+
+1746208669 source:c:\users\ramiro\desktop\universidad\tercer año\primer cuatrimestre\algoritmos y estructuras de datos\trabajo práctico\tp_prueba\cola.c
+	"cola.h"
+
+1746208669 c:\users\ramiro\desktop\universidad\tercer año\primer cuatrimestre\algoritmos y estructuras de datos\trabajo práctico\tp_prueba\cola.h
+	"mString.h"
+	<stdlib.h>
+
+1746224945 source:c:\users\ramiro\desktop\universidad\tercer año\primer cuatrimestre\algoritmos y estructuras de datos\trabajo práctico\tp_prueba\lista.c
+	"lista.h"
+
+1746224929 c:\users\ramiro\desktop\universidad\tercer año\primer cuatrimestre\algoritmos y estructuras de datos\trabajo práctico\tp_prueba\lista.h
+	"mString.h"
+	<stdio.h>
+	<stdlib.h>
+
+1746245577 c:\users\ramiro\desktop\universidad\tercer año\primer cuatrimestre\algoritmos y estructuras de datos\trabajo práctico\tp_prueba\ranking.h
+	"globales.h"
+	"lista.h"
+	"manejoArchivos.h"
+	"json.h"
+
+1746245619 source:c:\users\ramiro\desktop\universidad\tercer año\primer cuatrimestre\algoritmos y estructuras de datos\trabajo práctico\tp_prueba\ranking.c
+	"ranking.h"
+
+1748035036 source:c:\users\tomas\desktop\tp_prueba\api.c
+	"api.h"
+
+1748128972 c:\users\tomas\desktop\tp_prueba\api.h
+	"globales.h"
+	"json.h"
+	"mString.h"
+	"curl/curl.h"
+
+1748035038 c:\users\tomas\desktop\tp_prueba\globales.h
+
+1748035038 c:\users\tomas\desktop\tp_prueba\json.h
+	"globales.h"
+	"mString.h"
+	<stdlib.h>
+	<ctype.h>
+
+1748035038 c:\users\tomas\desktop\tp_prueba\mstring.h
+	<stdio.h>
+	"mCtype.h"
+
+1748035038 c:\users\tomas\desktop\tp_prueba\mctype.h
+
+1748129214 c:\users\tomas\desktop\tp_prueba\curl\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<sys/param.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"options.h"
+	"header.h"
+	"websockets.h"
+	"mprintf.h"
+	"typecheck-gcc.h"
+
+1748129214 c:\users\tomas\desktop\tp_prueba\curl\include\curl\curlver.h
+
+1748129214 c:\users\tomas\desktop\tp_prueba\curl\include\curl\system.h
+	<ConditionalMacros.h>
+	<inttypes.h>
+	<inttypes.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1748129214 c:\users\tomas\desktop\tp_prueba\curl\include\curl\easy.h
+
+1748129214 c:\users\tomas\desktop\tp_prueba\curl\include\curl\multi.h
+	"curl.h"
+
+1748129214 c:\users\tomas\desktop\tp_prueba\curl\include\curl\urlapi.h
+	"curl.h"
+
+1748129214 c:\users\tomas\desktop\tp_prueba\curl\include\curl\options.h
+
+1748129214 c:\users\tomas\desktop\tp_prueba\curl\include\curl\header.h
+
+1748129214 c:\users\tomas\desktop\tp_prueba\curl\include\curl\websockets.h
+
+1748129214 c:\users\tomas\desktop\tp_prueba\curl\include\curl\mprintf.h
+	<stdarg.h>
+	<stdio.h>
+	"curl.h"
+
+1748129214 c:\users\tomas\desktop\tp_prueba\curl\include\curl\typecheck-gcc.h
+
+1748318070 source:c:\users\tomas\desktop\tp_prueba\cartas.c
+	"cartas.h"
+
+1748035036 c:\users\tomas\desktop\tp_prueba\cartas.h
+	<stdlib.h>
+
+1748357350 source:c:\users\tomas\desktop\tp_prueba\ciclomenu.c
+	"cicloMenu.h"
+
+1748035036 c:\users\tomas\desktop\tp_prueba\ciclomenu.h
+	"menu.h"
+	"manejoArchivos.h"
+	"manejoCadenas.h"
+	"api.h"
+	"jugar.h"
+	"ranking.h"
+
+1748035038 c:\users\tomas\desktop\tp_prueba\menu.h
+	"mString.h"
+
+1748035038 c:\users\tomas\desktop\tp_prueba\manejoarchivos.h
+	"parsear.h"
+	"api.h"
+	<stdio.h>
+	<stdarg.h>
+	<time.h>
+
+1748035038 c:\users\tomas\desktop\tp_prueba\parsear.h
+	"mString.h"
+
+1748035038 c:\users\tomas\desktop\tp_prueba\manejocadenas.h
+	"globales.h"
+	"mCtype.h"
+	"menu.h"
+	"jugar.h"
+	<stdio.h>
+
+1748035038 c:\users\tomas\desktop\tp_prueba\jugar.h
+	"globales.h"
+	"json.h"
+	"api.h"
+	"mString.h"
+	"manejoArchivos.h"
+	"manejoCadenas.h"
+	"mano.h"
+
+1748035038 c:\users\tomas\desktop\tp_prueba\mano.h
+	"cartas.h"
+	"pila.h"
+
+1748035038 c:\users\tomas\desktop\tp_prueba\pila.h
+	<stddef.h>
+	"mString.h"
+
+1748035038 c:\users\tomas\desktop\tp_prueba\ranking.h
+	"globales.h"
+	"lista.h"
+	"manejoArchivos.h"
+	"json.h"
+
+1748035038 c:\users\tomas\desktop\tp_prueba\lista.h
+	"mString.h"
+	<stdio.h>
+	<stdlib.h>
+
+1748035038 source:c:\users\tomas\desktop\tp_prueba\json.c
+	"json.h"
+
+1748357886 source:c:\users\tomas\desktop\tp_prueba\jugar.c
+	"jugar.h"
+
+1748035038 source:c:\users\tomas\desktop\tp_prueba\lista.c
+	"lista.h"
+
+1748035038 source:c:\users\tomas\desktop\tp_prueba\main.c
+	"cicloMenu.h"
+
+1748035038 source:c:\users\tomas\desktop\tp_prueba\manejoarchivos.c
+	"manejoArchivos.h"
+
+1748035038 source:c:\users\tomas\desktop\tp_prueba\manejocadenas.c
+	"manejoCadenas.h"
+
+1748035038 source:c:\users\tomas\desktop\tp_prueba\mano.c
+	"mano.h"
+
+1748035038 source:c:\users\tomas\desktop\tp_prueba\mctype.c
+	"mCtype.h"
+
+1748035038 source:c:\users\tomas\desktop\tp_prueba\menu.c
+	"menu.h"
+
+1748035038 source:c:\users\tomas\desktop\tp_prueba\mstring.c
+	"mString.h"
+
+1748035038 source:c:\users\tomas\desktop\tp_prueba\parsear.c
+	"parsear.h"
+
+1748035038 source:c:\users\tomas\desktop\tp_prueba\pila.c
+	"pila.h"
+
+1748035038 source:c:\users\tomas\desktop\tp_prueba\ranking.c
+	"ranking.h"
+
+1748035036 source:c:\users\tomas\desktop\arreglos\tp_prueba\api.c
+	"api.h"
+
+1748128972 c:\users\tomas\desktop\arreglos\tp_prueba\api.h
+	"globales.h"
+	"json.h"
+	"mString.h"
+	"curl/curl.h"
+
+1748661133 c:\users\tomas\desktop\arreglos\tp_prueba\globales.h
+
+1748035038 c:\users\tomas\desktop\arreglos\tp_prueba\json.h
+	"globales.h"
+	"mString.h"
+	<stdlib.h>
+	<ctype.h>
+
+1748035038 c:\users\tomas\desktop\arreglos\tp_prueba\mstring.h
+	<stdio.h>
+	"mCtype.h"
+
+1748035038 c:\users\tomas\desktop\arreglos\tp_prueba\mctype.h
+
+1748129214 c:\users\tomas\desktop\arreglos\tp_prueba\curl\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<sys/param.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"options.h"
+	"header.h"
+	"websockets.h"
+	"mprintf.h"
+	"typecheck-gcc.h"
+
+1748129214 c:\users\tomas\desktop\arreglos\tp_prueba\curl\include\curl\curlver.h
+
+1748129214 c:\users\tomas\desktop\arreglos\tp_prueba\curl\include\curl\system.h
+	<ConditionalMacros.h>
+	<inttypes.h>
+	<inttypes.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1748129214 c:\users\tomas\desktop\arreglos\tp_prueba\curl\include\curl\easy.h
+
+1748129214 c:\users\tomas\desktop\arreglos\tp_prueba\curl\include\curl\multi.h
+	"curl.h"
+
+1748129214 c:\users\tomas\desktop\arreglos\tp_prueba\curl\include\curl\urlapi.h
+	"curl.h"
+
+1748129214 c:\users\tomas\desktop\arreglos\tp_prueba\curl\include\curl\options.h
+
+1748129214 c:\users\tomas\desktop\arreglos\tp_prueba\curl\include\curl\header.h
+
+1748129214 c:\users\tomas\desktop\arreglos\tp_prueba\curl\include\curl\websockets.h
+
+1748129214 c:\users\tomas\desktop\arreglos\tp_prueba\curl\include\curl\mprintf.h
+	<stdarg.h>
+	<stdio.h>
+	"curl.h"
+
+1748129214 c:\users\tomas\desktop\arreglos\tp_prueba\curl\include\curl\typecheck-gcc.h
+
+1748660067 source:c:\users\tomas\desktop\arreglos\tp_prueba\cartas.c
+	"cartas.h"
+
+1748660067 c:\users\tomas\desktop\arreglos\tp_prueba\cartas.h
+	<stdlib.h>
+
+1748661505 source:c:\users\tomas\desktop\arreglos\tp_prueba\ciclomenu.c
+	"cicloMenu.h"
+	<unistd.h>
+
+1748035036 c:\users\tomas\desktop\arreglos\tp_prueba\ciclomenu.h
+	"menu.h"
+	"manejoArchivos.h"
+	"manejoCadenas.h"
+	"api.h"
+	"jugar.h"
+	"ranking.h"
+
+1748662100 c:\users\tomas\desktop\arreglos\tp_prueba\menu.h
+	"mString.h"
+
+1748035038 c:\users\tomas\desktop\arreglos\tp_prueba\manejoarchivos.h
+	"parsear.h"
+	"api.h"
+	<stdio.h>
+	<stdarg.h>
+	<time.h>
+
+1748035038 c:\users\tomas\desktop\arreglos\tp_prueba\parsear.h
+	"mString.h"
+
+1748035038 c:\users\tomas\desktop\arreglos\tp_prueba\manejocadenas.h
+	"globales.h"
+	"mCtype.h"
+	"menu.h"
+	"jugar.h"
+	<stdio.h>
+
+1748717565 c:\users\tomas\desktop\arreglos\tp_prueba\jugar.h
+	"globales.h"
+	"json.h"
+	"api.h"
+	"mString.h"
+	"manejoArchivos.h"
+	"manejoCadenas.h"
+	"mano.h"
+
+1748653715 c:\users\tomas\desktop\arreglos\tp_prueba\mano.h
+	"cartas.h"
+	"pila.h"
+
+1748035038 c:\users\tomas\desktop\arreglos\tp_prueba\pila.h
+	<stddef.h>
+	"mString.h"
+
+1748035038 c:\users\tomas\desktop\arreglos\tp_prueba\ranking.h
+	"globales.h"
+	"lista.h"
+	"manejoArchivos.h"
+	"json.h"
+
+1748035038 c:\users\tomas\desktop\arreglos\tp_prueba\lista.h
+	"mString.h"
+	<stdio.h>
+	<stdlib.h>
+
+1748035038 source:c:\users\tomas\desktop\arreglos\tp_prueba\json.c
+	"json.h"
+
+1748821772 source:c:\users\tomas\desktop\arreglos\tp_prueba\jugar.c
+	"jugar.h"
+	"graficos.h"
+
+1748035038 source:c:\users\tomas\desktop\arreglos\tp_prueba\lista.c
+	"lista.h"
+
+1748709273 source:c:\users\tomas\desktop\arreglos\tp_prueba\main.c
+	"cicloMenu.h"
+
+1748035038 source:c:\users\tomas\desktop\arreglos\tp_prueba\manejoarchivos.c
+	"manejoArchivos.h"
+
+1748717384 source:c:\users\tomas\desktop\arreglos\tp_prueba\manejocadenas.c
+	"manejoCadenas.h"
+
+1748660893 source:c:\users\tomas\desktop\arreglos\tp_prueba\mano.c
+	"mano.h"
+
+1748035038 source:c:\users\tomas\desktop\arreglos\tp_prueba\mctype.c
+	"mCtype.h"
+
+1748662100 source:c:\users\tomas\desktop\arreglos\tp_prueba\menu.c
+	"menu.h"
+
+1748035038 source:c:\users\tomas\desktop\arreglos\tp_prueba\mstring.c
+	"mString.h"
+
+1748035038 source:c:\users\tomas\desktop\arreglos\tp_prueba\parsear.c
+	"parsear.h"
+
+1748035038 source:c:\users\tomas\desktop\arreglos\tp_prueba\pila.c
+	"pila.h"
+
+1748035038 source:c:\users\tomas\desktop\arreglos\tp_prueba\ranking.c
+	"ranking.h"
+
+1748711518 source:c:\users\tomas\desktop\arreglos\tp_prueba\graficos.c
+	"graficos.h"
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdio.h>
+	<ctype.h>
+	<unistd.h>
+
+1748711518 c:\users\tomas\desktop\arreglos\tp_prueba\graficos.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_ttf.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_guid.h"
+	"SDL_haptic.h"
+	"SDL_hidapi.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_windows.h"
+	"SDL_config_winrt.h"
+	"SDL_config_wingdk.h"
+	"SDL_config_xbox.h"
+	"SDL_config_macosx.h"
+	"SDL_config_iphoneos.h"
+	"SDL_config_android.h"
+	"SDL_config_os2.h"
+	"SDL_config_emscripten.h"
+	"SDL_config_ngage.h"
+	"SDL_config_minimal.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_platform.h
+	<AvailabilityMacros.h>
+	<TargetConditionals.h>
+	<TargetConditionals.h>
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\begin_code.h
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\close_code.h
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_config_windows.h
+	"SDL_platform.h"
+	<winsdkver.h>
+	<sdkddkver.h>
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_config_winrt.h
+	"SDL_platform.h"
+	<sdkddkver.h>
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_config_wingdk.h
+	"SDL_platform.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_config_xbox.h
+	"SDL_platform.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_config_iphoneos.h
+	"SDL_platform.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_config_android.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_config_os2.h
+	"SDL_platform.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_config_emscripten.h
+	"SDL_platform.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_config_ngage.h
+	"SDL_platform.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_config_minimal.h
+	"SDL_platform.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_assert.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<sys/byteorder.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<lsxintrin.h>
+	<lasxintrin.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_guid.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_guid.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_hidapi.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748636275 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748535046 c:\users\tomas\desktop\arreglos\tp_prueba\sdl2\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748035036 source:c:\users\ramiro\desktop\version de prueba\tp_prueba\api.c
+	"api.h"
+
+1748828049 c:\users\ramiro\desktop\version de prueba\tp_prueba\api.h
+	"globales.h"
+	"json.h"
+	"mString.h"
+	"curl/curl.h"
+
+1748661133 c:\users\ramiro\desktop\version de prueba\tp_prueba\globales.h
+
+1748035038 c:\users\ramiro\desktop\version de prueba\tp_prueba\json.h
+	"globales.h"
+	"mString.h"
+	<stdlib.h>
+	<ctype.h>
+
+1748035038 c:\users\ramiro\desktop\version de prueba\tp_prueba\mstring.h
+	<stdio.h>
+	"mCtype.h"
+
+1748035038 c:\users\ramiro\desktop\version de prueba\tp_prueba\mctype.h
+
+1748660067 source:c:\users\ramiro\desktop\version de prueba\tp_prueba\cartas.c
+	"cartas.h"
+
+1748660067 c:\users\ramiro\desktop\version de prueba\tp_prueba\cartas.h
+	<stdlib.h>
+
+1748661505 source:c:\users\ramiro\desktop\version de prueba\tp_prueba\ciclomenu.c
+	"cicloMenu.h"
+	<unistd.h>
+
+1748035036 c:\users\ramiro\desktop\version de prueba\tp_prueba\ciclomenu.h
+	"menu.h"
+	"manejoArchivos.h"
+	"manejoCadenas.h"
+	"api.h"
+	"jugar.h"
+	"ranking.h"
+
+1748662100 c:\users\ramiro\desktop\version de prueba\tp_prueba\menu.h
+	"mString.h"
+
+1748035038 c:\users\ramiro\desktop\version de prueba\tp_prueba\manejoarchivos.h
+	"parsear.h"
+	"api.h"
+	<stdio.h>
+	<stdarg.h>
+	<time.h>
+
+1748035038 c:\users\ramiro\desktop\version de prueba\tp_prueba\parsear.h
+	"mString.h"
+
+1748035038 c:\users\ramiro\desktop\version de prueba\tp_prueba\manejocadenas.h
+	"globales.h"
+	"mCtype.h"
+	"menu.h"
+	"jugar.h"
+	<stdio.h>
+
+1748717565 c:\users\ramiro\desktop\version de prueba\tp_prueba\jugar.h
+	"globales.h"
+	"json.h"
+	"api.h"
+	"mString.h"
+	"manejoArchivos.h"
+	"manejoCadenas.h"
+	"mano.h"
+
+1748653715 c:\users\ramiro\desktop\version de prueba\tp_prueba\mano.h
+	"cartas.h"
+	"pila.h"
+
+1748035038 c:\users\ramiro\desktop\version de prueba\tp_prueba\pila.h
+	<stddef.h>
+	"mString.h"
+
+1748035038 c:\users\ramiro\desktop\version de prueba\tp_prueba\ranking.h
+	"globales.h"
+	"lista.h"
+	"manejoArchivos.h"
+	"json.h"
+
+1748035038 c:\users\ramiro\desktop\version de prueba\tp_prueba\lista.h
+	"mString.h"
+	<stdio.h>
+	<stdlib.h>
+
+1748711518 source:c:\users\ramiro\desktop\version de prueba\tp_prueba\graficos.c
+	"graficos.h"
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdio.h>
+	<ctype.h>
+	<unistd.h>
+
+1748711518 c:\users\ramiro\desktop\version de prueba\tp_prueba\graficos.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_ttf.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_guid.h"
+	"SDL_haptic.h"
+	"SDL_hidapi.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"close_code.h"
+
+1735757272 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_windows.h"
+	"SDL_config_winrt.h"
+	"SDL_config_wingdk.h"
+	"SDL_config_xbox.h"
+	"SDL_config_macosx.h"
+	"SDL_config_iphoneos.h"
+	"SDL_config_android.h"
+	"SDL_config_os2.h"
+	"SDL_config_emscripten.h"
+	"SDL_config_ngage.h"
+	"SDL_config_minimal.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_platform.h
+	<AvailabilityMacros.h>
+	<TargetConditionals.h>
+	<TargetConditionals.h>
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\begin_code.h
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\close_code.h
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_assert.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<sys/byteorder.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<lsxintrin.h>
+	<lasxintrin.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_guid.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_guid.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_hidapi.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748636275 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1735843588 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748035038 source:c:\users\ramiro\desktop\version de prueba\tp_prueba\json.c
+	"json.h"
+
+1748821772 source:c:\users\ramiro\desktop\version de prueba\tp_prueba\jugar.c
+	"jugar.h"
+	"graficos.h"
+
+1748035038 source:c:\users\ramiro\desktop\version de prueba\tp_prueba\lista.c
+	"lista.h"
+
+1748830135 source:c:\users\ramiro\desktop\version de prueba\tp_prueba\main.c
+	"cicloMenu.h"
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1748035038 source:c:\users\ramiro\desktop\version de prueba\tp_prueba\manejoarchivos.c
+	"manejoArchivos.h"
+
+1748717384 source:c:\users\ramiro\desktop\version de prueba\tp_prueba\manejocadenas.c
+	"manejoCadenas.h"
+
+1748660893 source:c:\users\ramiro\desktop\version de prueba\tp_prueba\mano.c
+	"mano.h"
+
+1748035038 source:c:\users\ramiro\desktop\version de prueba\tp_prueba\mctype.c
+	"mCtype.h"
+
+1748662100 source:c:\users\ramiro\desktop\version de prueba\tp_prueba\menu.c
+	"menu.h"
+
+1748035038 source:c:\users\ramiro\desktop\version de prueba\tp_prueba\mstring.c
+	"mString.h"
+
+1748035038 source:c:\users\ramiro\desktop\version de prueba\tp_prueba\parsear.c
+	"parsear.h"
+
+1748035038 source:c:\users\ramiro\desktop\version de prueba\tp_prueba\pila.c
+	"pila.h"
+
+1748035038 source:c:\users\ramiro\desktop\version de prueba\tp_prueba\ranking.c
+	"ranking.h"
+
+1735757272 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_config_windows.h
+	"SDL_platform.h"
+	<winsdkver.h>
+	<sdkddkver.h>
+
+1735757272 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_config_winrt.h
+	"SDL_platform.h"
+	<sdkddkver.h>
+
+1735757272 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_config_wingdk.h
+	"SDL_platform.h"
+
+1735757272 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_config_xbox.h
+	"SDL_platform.h"
+
+1735757272 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1735757272 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_config_iphoneos.h
+	"SDL_platform.h"
+
+1735757272 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_config_android.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1735757272 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_config_os2.h
+	"SDL_platform.h"
+
+1735757272 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_config_emscripten.h
+	"SDL_platform.h"
+
+1735757272 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_config_ngage.h
+	"SDL_platform.h"
+
+1735757272 c:\users\ramiro\desktop\version de prueba\tp_prueba\sdl2\include\sdl2\sdl_config_minimal.h
+	"SDL_platform.h"
+
+1748847294 c:\users\ramiro\desktop\tp_prueba\ranking.h
+	"globales.h"
+	"lista.h"
+	"manejoArchivos.h"
+	"json.h"
+
+1748925344 c:\users\ramiro\desktop\tp_prueba\lista.h
+	"mString.h"
+	<stdio.h>
+	<stdlib.h>
+
+1748925505 source:c:\users\ramiro\desktop\tp_prueba\graficos.c
+	"graficos.h"
+
+1748925508 c:\users\ramiro\desktop\tp_prueba\graficos.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_ttf.h"
+	<stdlib.h>
+	<stdio.h>
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_guid.h"
+	"SDL_haptic.h"
+	"SDL_hidapi.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"close_code.h"
+
+1735757272 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_windows.h"
+	"SDL_config_winrt.h"
+	"SDL_config_wingdk.h"
+	"SDL_config_xbox.h"
+	"SDL_config_macosx.h"
+	"SDL_config_iphoneos.h"
+	"SDL_config_android.h"
+	"SDL_config_os2.h"
+	"SDL_config_emscripten.h"
+	"SDL_config_ngage.h"
+	"SDL_config_minimal.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_platform.h
+	<AvailabilityMacros.h>
+	<TargetConditionals.h>
+	<TargetConditionals.h>
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\begin_code.h
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\close_code.h
+
+1735757272 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_config_windows.h
+	"SDL_platform.h"
+	<winsdkver.h>
+	<sdkddkver.h>
+
+1735757272 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_config_winrt.h
+	"SDL_platform.h"
+	<sdkddkver.h>
+
+1735757272 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_config_wingdk.h
+	"SDL_platform.h"
+
+1735757272 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_config_xbox.h
+	"SDL_platform.h"
+
+1735757272 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1735757272 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_config_iphoneos.h
+	"SDL_platform.h"
+
+1735757272 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_config_android.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1735757272 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_config_os2.h
+	"SDL_platform.h"
+
+1735757272 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_config_emscripten.h
+	"SDL_platform.h"
+
+1735757272 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_config_ngage.h
+	"SDL_platform.h"
+
+1735757272 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_config_minimal.h
+	"SDL_platform.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_assert.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<sys/byteorder.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<lsxintrin.h>
+	<lasxintrin.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_guid.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_guid.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_hidapi.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748636275 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1735843588 c:\users\ramiro\desktop\tp_prueba\sdl2\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748925344 source:c:\users\ramiro\desktop\tp_prueba\lista.c
+	"lista.h"
+
+1748925344 source:c:\users\ramiro\desktop\tp_prueba\ranking.c
+	"ranking.h"
+
+1748925480 source:c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\api.c
+	"api.h"
+
+1748845829 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\api.h
+	"globales.h"
+	"json.h"
+	"mString.h"
+	"curl/curl.h"
+
+1748920958 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\globales.h
+
+1748925512 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\json.h
+	"globales.h"
+	"mString.h"
+	<stdlib.h>
+	<ctype.h>
+
+1748035038 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\mstring.h
+	<stdio.h>
+	"mCtype.h"
+
+1748035038 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\mctype.h
+
+1748925486 source:c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\cartas.c
+	"cartas.h"
+
+1748660067 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\cartas.h
+	<stdlib.h>
+
+1748925490 source:c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\ciclomenu.c
+	"cicloMenu.h"
+
+1748921708 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\ciclomenu.h
+	"globales.h"
+	"menu.h"
+	"manejoArchivos.h"
+	"manejoCadenas.h"
+	"api.h"
+	"jugar.h"
+	"ranking.h"
+	<unistd.h>
+
+1748844730 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\menu.h
+	"manejoCadenas.h"
+	"mString.h"
+
+1748925535 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\manejocadenas.h
+	"globales.h"
+	"mCtype.h"
+	"menu.h"
+	"jugar.h"
+	<stdio.h>
+
+1748960769 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\jugar.h
+	"globales.h"
+	"json.h"
+	"api.h"
+	"mString.h"
+	"manejoArchivos.h"
+	"manejoCadenas.h"
+	"mano.h"
+	"menu.h"
+	"graficos.h"
+	<unistd.h>
+
+1748846583 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\manejoarchivos.h
+	"parsear.h"
+	"api.h"
+	<stdio.h>
+	<stdarg.h>
+	<time.h>
+
+1748035038 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\parsear.h
+	"mString.h"
+
+1748846737 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\mano.h
+	"cartas.h"
+	"pila.h"
+
+1748847117 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\pila.h
+	<stddef.h>
+	"mString.h"
+
+1748925508 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\graficos.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_ttf.h"
+	<stdlib.h>
+	<stdio.h>
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_guid.h"
+	"SDL_haptic.h"
+	"SDL_hidapi.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"close_code.h"
+
+1735757272 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_windows.h"
+	"SDL_config_winrt.h"
+	"SDL_config_wingdk.h"
+	"SDL_config_xbox.h"
+	"SDL_config_macosx.h"
+	"SDL_config_iphoneos.h"
+	"SDL_config_android.h"
+	"SDL_config_os2.h"
+	"SDL_config_emscripten.h"
+	"SDL_config_ngage.h"
+	"SDL_config_minimal.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_platform.h
+	<AvailabilityMacros.h>
+	<TargetConditionals.h>
+	<TargetConditionals.h>
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\begin_code.h
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\close_code.h
+
+1735757272 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_config_windows.h
+	"SDL_platform.h"
+	<winsdkver.h>
+	<sdkddkver.h>
+
+1735757272 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_config_winrt.h
+	"SDL_platform.h"
+	<sdkddkver.h>
+
+1735757272 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_config_wingdk.h
+	"SDL_platform.h"
+
+1735757272 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_config_xbox.h
+	"SDL_platform.h"
+
+1735757272 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1735757272 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_config_iphoneos.h
+	"SDL_platform.h"
+
+1735757272 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_config_android.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1735757272 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_config_os2.h
+	"SDL_platform.h"
+
+1735757272 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_config_emscripten.h
+	"SDL_platform.h"
+
+1735757272 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_config_ngage.h
+	"SDL_platform.h"
+
+1735757272 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_config_minimal.h
+	"SDL_platform.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_assert.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<sys/byteorder.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<lsxintrin.h>
+	<lasxintrin.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_guid.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_guid.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_hidapi.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1743449876 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748636275 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1735843588 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\sdl2\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1748847294 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\ranking.h
+	"globales.h"
+	"lista.h"
+	"manejoArchivos.h"
+	"json.h"
+
+1748925344 c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\lista.h
+	"mString.h"
+	<stdio.h>
+	<stdlib.h>
+
+1748925505 source:c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\graficos.c
+	"graficos.h"
+
+1748925511 source:c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\json.c
+	"json.h"
+
+1748961178 source:c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\jugar.c
+	"jugar.h"
+
+1748925344 source:c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\lista.c
+	"lista.h"
+
+1748925524 source:c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\main.c
+	"cicloMenu.h"
+
+1748035038 source:c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\manejoarchivos.c
+	"manejoArchivos.h"
+
+1748925531 source:c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\manejocadenas.c
+	"manejoCadenas.h"
+
+1748961226 source:c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\mano.c
+	"mano.h"
+
+1748925541 source:c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\mctype.c
+	"mCtype.h"
+
+1748925544 source:c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\menu.c
+	"menu.h"
+
+1748925548 source:c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\mstring.c
+	"mString.h"
+
+1748035038 source:c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\parsear.c
+	"parsear.h"
+
+1748925563 source:c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\pila.c
+	"pila.h"
+
+1748925344 source:c:\users\ramiro\desktop\tp_algoritmos_2025_1c_memoria\ranking.c
+	"ranking.h"
+
