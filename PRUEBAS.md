@@ -10,7 +10,7 @@
 
 | Descripción                                                                               | Salida Esperada                | Salida Obtenida                                                                                                                     |
 | :---------------------------------------------------------------------------------------- | :----------------------------- | :---------------------------------------------------------------------------------------------------------------------------------- |
-| `Se quiere probar que es lo q pasaria si: luego de una partida, se actualiza el ranking.` | `que si actualice el ranking ` | ![Captura de pantalla](imagenes_lotes_prueba/caso_2_primero.png) ![Captura de pantalla 2](imagenes_lotes_prueba/caso_2_segundo.png) |
+| `Se quiere probar que es lo q pasaria si: luego de una partida, se actualiza el ranking.` | `que si actualice el ranking ` | ![Captura de pantalla](imagenes_lotes_prueba/caso_2_primero.png) ![Captura de pantalla 2](imagenes_lotes_prueba/caso_2_segundo.PNG) |
 
 #### Caso 3
 
