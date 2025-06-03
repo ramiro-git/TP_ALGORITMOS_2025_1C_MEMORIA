@@ -1,9 +1,0 @@
-FIJARSE BIEN SI PONER "" en el curl o <>
-
-mejorar comentarios
-
-// 1. Usar carta espejo (si es que tiene), en el caso de que el otro haya tirado una negativa.
-// 2. Si tiene mas de una carta buena (la maquina), que priorice repetir turno (si es que lo tiene).
-// 3. Si esta cerca de ganar, que gane.
-// 4. Si el rival esta de ganar, que reste.
-5. Si tiene 0 (el oponente), que no reste.
